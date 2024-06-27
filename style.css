@@ -1,0 +1,27 @@
+h1 {
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #ffffffb4; /* Background color added */
+    padding: 1em;
+}
+
+h4 {
+    font-family: "Playwrite US Modern", cursive;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: wavy;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 2px;
+    background-color: #ffffffb4; /* Background color added */
+    padding: 1em;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+body {
+    background-image: url('bg.png');
+}
